@@ -1,3 +1,5 @@
+**Evaluación Inicial**
+
 1.¿Qué es una página web?
 
 Una página web es un documento digital dentro de un sitio web que puede ser visitado por un usuario a través de un navegador de Internet y contiene información de todo tipo en múltiples formatos ya puede ser desde texto e imágenes, hasta videos y vínculos a otras páginas web.
